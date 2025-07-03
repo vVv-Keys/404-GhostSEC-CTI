@@ -253,10 +253,10 @@ For detailed compliance documentation, see [COMPLIANCE.md](./COMPLIANCE.md).
 
 ## Support
 
-- **Documentation:** [docs.ghost404.dev](https://docs.ghost404.dev)
-- **Discord Community:** [discord.gg/ghost404](https://discord.gg/ghost404)
-- **Email Support:** [support@ghost404.dev](mailto:support@ghost404.dev)
-- **Enterprise Support:** [enterprise@ghost404.dev](mailto:enterprise@ghost404.dev)
+
+- **Discord Community:** [discord.gg/ghost404]([https://discord.gg/ghost40](https://discord.gg/wcn3n56CTe)4)
+- **Email Support:** [support@ghost404.dev](mailto:keysguard@usa.com)
+- **Enterprise Support:** [enterprise@ghost404.dev](mailto:keysguard@usa.com)
 
 ---
 
@@ -276,3 +276,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ghost 👻 404** — Advanced Cyber Threat Intelligence Platform  
 Version 2.0.0 | Built for Enterprise Security
+
+- We are getting even more spookier and intelligent in our upcoming transition.
