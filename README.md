@@ -1,6 +1,6 @@
 # Ghost 👻 404 - Advanced Cyber Threat Intelligence Platform
 
-## Overview - update [discord.gg/ghost404]([https://discord.gg/ghost40](https://discord.gg/wcn3n56CTe)4)
+## Overview - update
 
 Ghost 404 is an enterprise-grade cybersecurity threat intelligence platform built with modern web technologies. It delivers real-time threat monitoring, AI-powered analysis, compliance reporting, and automated incident response, all within a scalable, secure, and extensible SaaS solution.
 
