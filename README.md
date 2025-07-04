@@ -29,27 +29,6 @@
 
 ## 🧩 Architecture
 
-+---------------------------+
-| Threat Feeds |
-| (VirusTotal, MISP, etc.) |
-+------------+--------------+
-|
-+---------------------------+
-| Ghost 404 |
-| AI Threat Analyzer |
-| Feed Correlation Engine |
-| Automated Enrichment |
-| Playbook Orchestration |
-+------------+--------------+
-|
-+---------------------------+
-| Discord + Dashboard |
-| Alerts, Reports, UI |
-+---------------------------
-
-
----
-
 ## 📊 Why Ghost 404 > the rest?
 
 Here’s why **Ghost 404** beats traditional CTI platforms, visually:
