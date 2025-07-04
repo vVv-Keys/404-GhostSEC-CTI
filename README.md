@@ -1,6 +1,6 @@
 # 👻 Ghost 404 — Advanced Cyber Threat Intelligence Platform
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/ghostsec-org/ghost-404/ci.yml?branch=main&label=CI)](https://github.com/ghostsec-org/ghost-404/actions)
+
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Version](https://img.shields.io/badge/version-3.0.0-blue)](#)
 [![Coverage](https://img.shields.io/codecov/c/github/ghostsec-org/ghost-404?label=coverage)](https://codecov.io/gh/ghostsec-org/ghost-404)
