@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Version](https://img.shields.io/badge/version-3.0.0-blue)](#)
 [![Coverage](https://img.shields.io/codecov/c/github/ghostsec-org/ghost-404?label=coverage)](https://codecov.io/gh/ghostsec-org/ghost-404)
-[![Discord](https://img.shields.io/discord/123456789012345678?label=discord&logo=discord)](https://discord.gg/[YOURINVITE](https://discord.gg/75mDE7vs))
+[![Discord](https://img.shields.io/discord/123456789012345678?label=discord&logo=discord)](https://discord.gg/[75mDE7vs](https://discord.gg/75mDE7vs)
 
 ---
 
