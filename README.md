@@ -82,18 +82,6 @@ Full details in [COMPLIANCE.md](./COMPLIANCE.md).
 
 ---
 
-## 🤝 Contributing
-
-We welcome community contributions:
-
-1. Fork the repository
-2. Create a branch: `git checkout -b feature/awesome`
-3. Commit: `git commit -am 'Add awesome feature'`
-4. Push: `git push origin feature/awesome`
-5. Open a PR!
-
----
-
 ## 📄 License
 
 MIT License — see [`LICENSE`](LICENSE).
@@ -102,9 +90,6 @@ MIT License — see [`LICENSE`](LICENSE).
 
 ## 🌟 Credits
 
-- Began with [Lovable.dev](https://lovable.dev)  
-- Powered by [Supabase](https://supabase.com)  
-- UI components by [Shadcn/ui](https://ui.shadcn.com)  
 - Concept and refactor by @vVv-Keys
 
 ---
