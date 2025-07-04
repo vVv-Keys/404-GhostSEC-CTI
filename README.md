@@ -34,7 +34,6 @@
 | (VirusTotal, MISP, etc.) |
 +------------+--------------+
 |
-v
 +---------------------------+
 | Ghost 404 |
 | AI Threat Analyzer |
@@ -43,7 +42,6 @@ v
 | Playbook Orchestration |
 +------------+--------------+
 |
-v
 +---------------------------+
 | Discord + Dashboard |
 | Alerts, Reports, UI |
