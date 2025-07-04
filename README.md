@@ -6,7 +6,10 @@
 [![Coverage](https://img.shields.io/codecov/c/github/ghostsec-org/ghost-404?label=coverage)](https://codecov.io/gh/ghostsec-org/ghost-404)
 [![Discord](https://img.shields.io/discord/123456789012345678?label=discord&logo=discord)](https://discord.gg/75mDE7vs)
 
----
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1384863283516936232/1390425639961624677/20250701-1351-23.5657632_1.gif?ex=68683649&is=6866e4c9&hm=98caf9ae4d4f034398a92171d289a9886d5db526c8a1baf61d0038b3492015d7&=&width=1152&height=564"
+       alt="404 Labs Animated Banner" width="768">
+</p>
 
 ## 👁️‍🗨️ Overview
 
